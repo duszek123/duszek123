@@ -2,6 +2,9 @@
 <br>
 <br>
 <br>
+<img src="https://img.shields.io/badge/Python-grey?style=flat&logo=PYTHON&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/C%23-blue?style=flat&logo=c%23&logoColor=white" /> 
+<br>
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
